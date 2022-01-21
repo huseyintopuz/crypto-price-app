@@ -1,0 +1,17 @@
+.coin {
+    background: rgb(77, 74, 74);
+    border-radius: 10px;
+    width: 12rem;
+    margin: auto;
+}
+.coin-feature {
+    margin-top: 1rem;
+    padding: 0.5rem;
+}
+.coin-feature h1,h2,h3 {
+    color: blanchedalmond;
+}
+.coin-feature img {
+    width: 4rem;
+    height: 4rem;
+}
